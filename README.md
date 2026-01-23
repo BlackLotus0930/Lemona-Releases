@@ -1,7 +1,5 @@
 # Lemona: AI-native Integrated Writing Editor
 
----
-
 ## Features
 
 ### Rich Text Editor
