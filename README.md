@@ -1,14 +1,25 @@
 <div align="center">
-🍋 Lemona
-An AI-native integrated writing editor
-Write, research, and refine—all in one intelligent workspace
+
+# 🍋 Lemona
+
+### An AI-native integrated writing editor
+
+**Write, research, and refine—all in one intelligent workspace**
+
 <br />
-Show Image
-Show Image
+
+[![Download](https://img.shields.io/badge/Download-v1.0.0-FF6B6B?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/BlackLotus0930/Lemona-Releases/releases/download/v1.0.0/Lemona-1.0.0-x64.exe)
+[![Website](https://img.shields.io/badge/Website-lemona.studio-4A90E2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.lemona.studio)
+
 <br />
-Show Image
+
+![Tech Stack](https://img.shields.io/badge/Built_with-Electron_+_React_+_TypeScript-61DAFB?style=flat-square)
+
 </div>
+
 <br />
+
+---
 
 <br />
 
