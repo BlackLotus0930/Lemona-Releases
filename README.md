@@ -13,8 +13,6 @@ Write, research, and refine—all in one intelligent workspace. Lemona combines 
 
 [Download](https://github.com/BlackLotus0930/Lemona-Releases/releases/download/v1.0.0/Lemona-1.0.0-x64.exe) • [Website](https://www.lemona.studio)
 
-<br />
-
 ---
 
 ## Features
