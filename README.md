@@ -65,6 +65,6 @@ Get intelligent suggestions based on your content.
 > Currently Windows-only.
 
 <div align="center">
-Made with 🍋 by the Lemona team
+Made with 🍋 by BlackLotus
 Website • GitHub • Report Issue
 </div>
