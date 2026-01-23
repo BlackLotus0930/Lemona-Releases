@@ -1,21 +1,14 @@
-<img width="2000" height="394" alt="When life gives you lemons, make lemona (1)" src="https://github.com/user-attachments/assets/61729457-6df9-4d4e-b112-ea3a18d88696" />
-
 <div align="center">
-
-# Lemona: an AI-native Integrated Writing Editor
-
-[![Website](https://img.shields.io/badge/🌐_Website-lemona.studio-FF6B6B?style=flat-square&logo=google-chrome&logoColor=white)](https://www.lemona.studio)
-
+🍋 Lemona
+An AI-native integrated writing editor
+Write, research, and refine—all in one intelligent workspace
 <br />
-
-![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Material-UI](https://img.shields.io/badge/Material--UI-007FFF?style=flat-square&logo=mui&logoColor=white)
-![TipTap](https://img.shields.io/badge/TipTap-FF6B6B?style=flat-square)
-
+Show Image
+Show Image
+<br />
+Show Image
 </div>
+<br />
 
 ## ✨ Features
 
