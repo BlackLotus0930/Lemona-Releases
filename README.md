@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🍋 Lemona: an AI-native integrated writing editor
+# Lemona: an AI-native integrated writing editor
 
 <br />
 
