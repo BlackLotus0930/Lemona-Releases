@@ -17,17 +17,17 @@ Write, research, and refine—all in one intelligent workspace. Lemona combines 
 
 ## Features
 
-### Rich Text Editor
-Professional-grade editing with formatting, tables, lists, and hierarchical sections. Clean, distraction-free interface designed for focused writing. Drag-and-drop section reordering, interactive outline navigation, and auto-save ensure your work flows smoothly.
+### 1. Rich Text Editor
+- Professional-grade editing with formatting, tables, lists, and hierarchical sections. Clean, distraction-free interface designed for focused writing. Drag-and-drop section reordering, interactive outline navigation, and auto-save ensure your work flows smoothly.
 
-### Multi-File Workspace
-Organize multiple documents within a single project workspace. Switch between files seamlessly, maintain context across documents, and keep your entire project accessible in one place. Perfect for long-form writing, research papers, or multi-document projects.
+### 2. Multi-File Workspace
+- Organize multiple documents within a single project workspace. Switch between files seamlessly, maintain context across documents, and keep your entire project accessible in one place. Perfect for long-form writing, research papers, or multi-document projects.
 
-### Version Control
-Track changes and manage drafts effortlessly. Every edit is automatically saved with version history, so you can review past versions, compare changes, and restore previous drafts. Never lose your work, and experiment with confidence.
+### 3. Version Control
+- Track changes and manage drafts effortlessly. Every edit is automatically saved with version history, so you can review past versions, compare changes, and restore previous drafts. Never lose your work, and experiment with confidence.
 
-### Context-Aware AI
-Get intelligent suggestions based on your entire project context. The AI understands your workspace, library files, and writing history, providing relevant assistance whether you're brainstorming, refining prose, or researching. A multi-threaded chat interface lets you maintain separate conversation contexts.
+### 4. Context-Aware AI
+- Get intelligent suggestions based on your entire project context. The AI understands your workspace, library files, and writing history, providing relevant assistance whether you're brainstorming, refining prose, or researching. A multi-threaded chat interface lets you maintain separate conversation contexts.
 
 ---
 
@@ -35,14 +35,14 @@ Get intelligent suggestions based on your entire project context. The AI underst
 
 </div>
 
-### WorldLab
-Visual canvas for brainstorming and exploring ideas. Create nodes, connect concepts, and organize thoughts visually. Perfect for planning, mind mapping, and exploring relationships between ideas before you write.
+### 1. WorldLab
+- Visual canvas for brainstorming and exploring ideas. Create nodes, connect concepts, and organize thoughts visually. Perfect for planning, mind mapping, and exploring relationships between ideas before you write.
 
-### Library
-Central repository for reference materials. Upload PDFs and DOCX files, which are automatically indexed for semantic search. Reference these materials in your writing, and the AI can pull context from your library when assisting you.
+### 2. Library
+- Central repository for reference materials. Upload PDFs and DOCX files, which are automatically indexed for semantic search. Reference these materials in your writing, and the AI can pull context from your library when assisting you.
 
-### Workspace
-Your main writing environment. Create and edit documents with the rich text editor, organize them in your project, and leverage AI assistance that understands both your current document and your entire library. Everything connects—ideas from WorldLab, references from Library, all accessible as you write.
+### 3. Workspace
+- Your main writing environment. Create and edit documents with the rich text editor, organize them in your project, and leverage AI assistance that understands both your current document and your entire library. Everything connects—ideas from WorldLab, references from Library, all accessible as you write.
 
 ---
 
