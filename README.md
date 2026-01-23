@@ -1,6 +1,6 @@
 <div align="center">
 
-# Lemona
+<img width="1966" height="464" alt="Your paragraph text (4) (1)" src="https://github.com/user-attachments/assets/51207bde-9057-4634-a395-ddeb135ea0f0" />
 
 ### An AI-native integrated writing editor
 
