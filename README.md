@@ -7,7 +7,7 @@
 ![Material-UI](https://img.shields.io/badge/Material--UI-007FFF?style=flat-square&logo=mui&logoColor=white)
 ![TipTap](https://img.shields.io/badge/TipTap-FF6B6B?style=flat-square)
 
-**An AI-native integrated writing editor.**
+**An AI-native integrated writing editor**
 
 Write, research, and refine—all in one intelligent workspace. Lemona combines a powerful rich text editor with context-aware AI assistance, visual knowledge management, and seamless document organization. Built for writers who need more than just a text editor.
 
