@@ -44,14 +44,19 @@ Get intelligent suggestions based on your content.
 - **`Ctrl+S`** to save and index workspace files
 
 
-## 📥 Download
+</div>
+<br />
 
-### Windows
-
-**[⬇️ Download Lemona for Windows](https://github.com/BlackLotus0930/Lemona-Releases/releases/download/v1.0.0/Lemona-1.0.0-x64.exe)**
-
-> **Note:** Windows may show a security warning. Click "More info" → "Run anyway" to continue.  
-> Currently Windows-only.
+<br />
+📥 Download
+<div align="center">
+🪟 Windows
+⬇️ Download Lemona v1.0.0 for Windows
+<sub>Windows may show a security warning. Click "More info" → "Run anyway" to continue.</sub>
+<br />
+macOS and Linux versions coming soon
+</div>
+<br />
 
 <div align="center">
 Made with 🍋 by the Lemona team
