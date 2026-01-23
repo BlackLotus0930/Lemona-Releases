@@ -14,8 +14,6 @@ Track changes and manage drafts effortlessly.
 ### Context-Aware AI
 Get intelligent suggestions based on your content.
 
----
-
 ## Three Connected Spaces
 
 | Space | Description |
@@ -23,8 +21,6 @@ Get intelligent suggestions based on your content.
 | **WorldLab** | Brainstorm and explore ideas freely |
 | **Library** | Store reference materials (PDF, DOCX) |
 | **Workspace** | Write and edit your documents |
-
----
 
 ## Quick Start
 
