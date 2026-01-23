@@ -2,7 +2,7 @@
 
 # Lemona: AI-native writing workspace
 
-**Write, research, and refine—all in one intelligent workspace**
+**If life gives you lemons, make lemona.**
 
 <br />
 
@@ -16,8 +16,6 @@
 </div>
 
 <br />
-
----
 
 <br />
 
