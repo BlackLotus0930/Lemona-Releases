@@ -1,6 +1,6 @@
 # Lemona: AI-native Integrated Writing Editor
 
-## Features
+## ✨ Features
 
 ### Rich Text Editor
 Write with a clean, distraction-free interface.
@@ -15,7 +15,7 @@ Track changes and manage drafts effortlessly.
 Get intelligent suggestions based on your content.
 
 
-## Three Connected Spaces
+## 🔗 Three Connected Spaces
 
 | Space | Description |
 |-------|-------------|
@@ -24,7 +24,7 @@ Get intelligent suggestions based on your content.
 | **Workspace** | Write and edit your documents |
 
 
-## Quick Start
+## 🚀 Quick Start
 
 - Type **`/`** for commands and formatting
 - **Select text** to improve or rewrite with AI
@@ -32,9 +32,9 @@ Get intelligent suggestions based on your content.
 - **`Ctrl+S`** to save and index workspace files
 
 
-## Download
+## 📥 Download
 
-### 🪟 Windows
+### Windows
 
 **[⬇️ Download Lemona for Windows](https://github.com/BlackLotus0930/Lemona-Releases/releases/download/v1.0.0/Lemona-1.0.0-x64.exe)**
 
