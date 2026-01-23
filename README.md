@@ -4,12 +4,16 @@
 
 # Lemona: an AI-native Integrated Writing Editor
 
-![Electron](https://img.shields.io/badge/Electron-39.2.7-47848F?style=for-the-badge&logo=electron&logoColor=white)
-![React](https://img.shields.io/badge/React-18.2.0-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-5.3.3-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-5.0.8-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Material-UI](https://img.shields.io/badge/Material--UI-5.15.0-007FFF?style=for-the-badge&logo=mui&logoColor=white)
-![TipTap](https://img.shields.io/badge/TipTap-3.14.0-FF6B6B?style=for-the-badge)
+[![Website](https://img.shields.io/badge/🌐_Website-lemona.studio-FF6B6B?style=flat-square&logo=google-chrome&logoColor=white)](https://www.lemona.studio)
+
+<br />
+
+![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Material-UI](https://img.shields.io/badge/Material--UI-007FFF?style=flat-square&logo=mui&logoColor=white)
+![TipTap](https://img.shields.io/badge/TipTap-FF6B6B?style=flat-square)
 
 </div>
 
