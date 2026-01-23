@@ -11,8 +11,6 @@
 
 <br />
 
----
-
 ## ✨ Features
 
 <table>
@@ -48,8 +46,6 @@ Get intelligent suggestions based on your content.
 
 <br />
 
----
-
 ## 🔗 Three Connected Spaces
 
 | Space | Description |
@@ -60,8 +56,6 @@ Get intelligent suggestions based on your content.
 
 <br />
 
----
-
 ## 🚀 Quick Start
 
 - Type **`/`** for commands and formatting
@@ -70,8 +64,6 @@ Get intelligent suggestions based on your content.
 - **`Ctrl+S`** to save and index workspace files
 
 <br />
-
----
 
 ## 📥 Download
 
@@ -83,9 +75,6 @@ Get intelligent suggestions based on your content.
 > Currently Windows-only.
 
 <br />
-
----
-
 <div align="center">
 
 Made with 🍋 by BlackLotus
