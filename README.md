@@ -39,13 +39,11 @@
 
 </div>
 
-| 💡 WorldLab | 📚 Library | ✍️ Workspace |
+| WorldLab | Library | Workspace |
 |------------|-----------|-------------|
 | Brainstorm and explore ideas freely | Store reference materials (PDF, DOCX) | Write and edit your documents |
 
 <br />
-
----
 
 <br />
 
