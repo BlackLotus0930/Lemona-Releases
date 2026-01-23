@@ -1,11 +1,11 @@
 # Lemona
 
-![GitHub stars](https://img.shields.io/github/stars/BlackLotus0930/Lemona-Releases?style=flat-square)
-![License](https://img.shields.io/badge/license-Proprietary-red?style=flat-square)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Material-UI](https://img.shields.io/badge/Material--UI-007FFF?style=flat-square&logo=mui&logoColor=white)
+![TipTap](https://img.shields.io/badge/TipTap-FF6B6B?style=flat-square)
 
 **An AI-native integrated writing editor.**
 
