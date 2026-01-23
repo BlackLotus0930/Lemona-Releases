@@ -17,21 +17,19 @@
 
 ## ✨ Features
 
-### 📝 Rich Text Editor
+### Rich Text Editor
 - Clean, distraction-free interface for focused writing
 
-### 🗂️ Multi-File Workspace
-Organize multiple documents in one project
+### Multi-File Workspace
+- Organize multiple documents in one project
 
-### 🕐 Version Control
-Track changes and manage drafts effortlessly
+### Version Control
+- Track changes and manage drafts effortlessly
 
-### 🤖 Context-Aware AI
-Intelligent suggestions based on your content
+### Context-Aware AI
+- Intelligent suggestions based on your content
 
 <br />
-
----
 
 <br />
 
