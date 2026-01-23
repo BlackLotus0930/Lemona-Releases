@@ -1,4 +1,4 @@
-# 🍋 Lemona
+# Lemona
 
 ![GitHub stars](https://img.shields.io/github/stars/BlackLotus0930/Lemona-Releases?style=flat-square)
 ![License](https://img.shields.io/badge/license-Proprietary-red?style=flat-square)
