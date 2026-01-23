@@ -41,19 +41,6 @@ Get intelligent suggestions based on your entire project context. The AI underst
 
 ## Three Connected Spaces
 
-Lemona organizes your work into three interconnected spaces that flow together seamlessly:
-
-<div align="center">
-
-```
-┌─────────────┐      ┌─────────────┐      ┌─────────────┐
-│  WorldLab   │ ───> │   Library   │ ───> │  Workspace  │
-│             │      │             │      │             │
-│ Brainstorm  │      │  Reference  │      │    Write    │
-│   & Ideas   │      │  Materials  │      │  & Refine   │
-└─────────────┘      └─────────────┘      └─────────────┘
-```
-
 </div>
 
 ### WorldLab
