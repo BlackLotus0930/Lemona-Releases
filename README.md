@@ -1,8 +1,6 @@
 <div align="center">
 
-# 🍋 Lemona
-
-## An AI-native integrated writing editor
+# Lemona: AI-native writing workspace
 
 **Write, research, and refine—all in one intelligent workspace**
 
