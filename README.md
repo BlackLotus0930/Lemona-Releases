@@ -12,19 +12,30 @@
 
 <br />
 
-## ✨ Features
-
-### Rich Text Editor
+✨ Features
+<table>
+<tr>
+<td width="50%" valign="top">
+📝 Rich Text Editor
 Write with a clean, distraction-free interface.
-
-### Multi-File Workspace
+</td>
+<td width="50%" valign="top">
+🗂️ Multi-File Workspace
 Organize multiple documents in one project.
-
-### Version Control
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+🕐 Version Control
 Track changes and manage drafts effortlessly.
-
-### Context-Aware AI
+</td>
+<td width="50%" valign="top">
+🤖 Context-Aware AI
 Get intelligent suggestions based on your content.
+</td>
+</tr>
+</table>
+<br />
 
 
 ## 🔗 Three Connected Spaces
