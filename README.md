@@ -1,4 +1,4 @@
-# Lemona: AI-native IWE
+# Lemona: AI-native Integrated Writing Editor
 
 ## Features
 
