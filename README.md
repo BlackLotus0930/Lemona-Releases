@@ -48,14 +48,14 @@ Write, research, and refine—all in one intelligent workspace. Lemona combines 
 
 ## Quick Start
 
-### Getting Started
+### 1. Getting Started
 
 1. **Create a new document** - Click "New Document" to start writing
 2. **Use the command menu** - Type `/` to access formatting options, insert sections, or add elements
 3. **Access AI assistance** - Open the AI panel from the sidebar to get help with your writing
 4. **Organize your project** - Use the file explorer to manage multiple documents
 
-### Keyboard Shortcuts
+### 2. Keyboard Shortcuts
 
 <div align="center">
 
@@ -71,7 +71,7 @@ Write, research, and refine—all in one intelligent workspace. Lemona combines 
 
 </div>
 
-### Workflow Tips
+### 3. Workflow Tips
 
 - **Reference files**: In the AI panel, use `@library filename.pdf` or `@workspace doc.md` to reference specific files
 - **Semantic search**: Use the search feature to find content across all indexed documents, not just keyword matches
