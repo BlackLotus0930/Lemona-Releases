@@ -1,17 +1,17 @@
-<div align="center">
+# 🍋 Lemona
 
-# <Lemona> AI-native writing workspace
+![GitHub stars](https://img.shields.io/github/stars/BlackLotus0930/Lemona-Releases?style=flat-square)
+![License](https://img.shields.io/badge/license-Proprietary-red?style=flat-square)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
-**If life gives you lemons, make lemona.**
+**An AI-native integrated writing editor.**
 
-<br />
+Write, research, and refine—all in one intelligent workspace. Lemona combines a powerful rich text editor with context-aware AI assistance, visual knowledge management, and seamless document organization. Built for writers who need more than just a text editor.
 
-[![Download](https://img.shields.io/badge/Download-v1.0.0-FF6B6B?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/BlackLotus0930/Lemona-Releases/releases/download/v1.0.0/Lemona-1.0.0-x64.exe)
-[![Website](https://img.shields.io/badge/Website-lemona.studio-4A90E2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.lemona.studio)
-
-</div>
-
-<br />
+[Download](https://github.com/BlackLotus0930/Lemona-Releases/releases/download/v1.0.0/Lemona-1.0.0-x64.exe) • [Website](https://www.lemona.studio)
 
 <br />
 
