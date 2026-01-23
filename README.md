@@ -64,7 +64,5 @@ Get intelligent suggestions based on your content.
 > **Note:** Windows may show a security warning. Click "More info" → "Run anyway" to continue.  
 > Currently Windows-only.
 
-<div align="center">
+
 Made with 🍋 by BlackLotus
-Website • GitHub • Report Issue
-</div>
