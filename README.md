@@ -1,6 +1,6 @@
 # Lemona
 
-An integrated writing editor with AI-powered assistance.
+An integrated writing editor (IWE).
 
 ## Features
 
