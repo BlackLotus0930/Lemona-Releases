@@ -1,135 +1,61 @@
+<img width="2000" height="394" alt="When life gives you lemons, make lemona (1)" src="https://github.com/user-attachments/assets/61729457-6df9-4d4e-b112-ea3a18d88696" />
+
 <div align="center">
 
-# 🍋 Lemona
+# Lemona: an AI-native Integrated Writing Editor
 
-### An AI-native integrated writing editor
-
-**Write, research, and refine—all in one intelligent workspace**
+[![Website](https://img.shields.io/badge/🌐_Website-lemona.studio-FF6B6B?style=flat-square&logo=google-chrome&logoColor=white)](https://www.lemona.studio)
 
 <br />
 
-[![Download](https://img.shields.io/badge/Download-v1.0.0-FF6B6B?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/BlackLotus0930/Lemona-Releases/releases/download/v1.0.0/Lemona-1.0.0-x64.exe)
-[![Website](https://img.shields.io/badge/Website-lemona.studio-4A90E2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.lemona.studio)
-
-<br />
-
-![Tech Stack](https://img.shields.io/badge/Built_with-Electron_+_React_+_TypeScript-61DAFB?style=flat-square)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Material-UI](https://img.shields.io/badge/Material--UI-007FFF?style=flat-square&logo=mui&logoColor=white)
+![TipTap](https://img.shields.io/badge/TipTap-FF6B6B?style=flat-square)
 
 </div>
-
-<br />
-
----
-
-<br />
 
 ## ✨ Features
 
-<table>
-<tr>
-<td width="50%">
+### Rich Text Editor
+Write with a clean, distraction-free interface.
 
-### 📝 Rich Text Editor
-Clean, distraction-free interface for focused writing
+### Multi-File Workspace
+Organize multiple documents in one project.
 
-</td>
-<td width="50%">
+### Version Control
+Track changes and manage drafts effortlessly.
 
-### 🗂️ Multi-File Workspace
-Organize multiple documents in one project
+### Context-Aware AI
+Get intelligent suggestions based on your content.
 
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🕐 Version Control
-Track changes and manage drafts effortlessly
-
-</td>
-<td width="50%">
-
-### 🤖 Context-Aware AI
-Intelligent suggestions based on your content
-
-</td>
-</tr>
-</table>
-
-<br />
-
----
-
-<br />
 
 ## 🔗 Three Connected Spaces
 
-<div align="center">
+| Space | Description |
+|-------|-------------|
+| **WorldLab** | Brainstorm and explore ideas freely |
+| **Library** | Store reference materials (PDF, DOCX) |
+| **Workspace** | Write and edit your documents |
 
-```
-┌─────────────┐      ┌─────────────┐      ┌─────────────┐
-│  WorldLab   │ ───> │   Library   │ ───> │  Workspace  │
-│             │      │             │      │             │
-│ Brainstorm  │      │  Reference  │      │    Write    │
-│   & Ideas   │      │  Materials  │      │  & Refine   │
-└─────────────┘      └─────────────┘      └─────────────┘
-```
-
-</div>
-
-| 💡 WorldLab | 📚 Library | ✍️ Workspace |
-|------------|-----------|-------------|
-| Brainstorm and explore ideas freely | Store reference materials (PDF, DOCX) | Write and edit your documents |
-
-<br />
-
----
-
-<br />
 
 ## 🚀 Quick Start
 
-<div align="center">
+- Type **`/`** for commands and formatting
+- **Select text** to improve or rewrite with AI
+- **`Ctrl+Shift+E`** to toggle file explorer
+- **`Ctrl+S`** to save and index workspace files
 
-| Shortcut | Action |
-|:--------:|--------|
-| **`/`** | Open commands and formatting menu |
-| **Select text** | Improve or rewrite with AI |
-| **`Ctrl+Shift+E`** | Toggle file explorer |
-| **`Ctrl+S`** | Save and index workspace files |
-
-</div>
-
-<br />
-
----
-
-<br />
 
 ## 📥 Download
 
-<div align="center">
+### Windows
 
-### 🪟 Windows
+**[⬇️ Download Lemona for Windows](https://github.com/BlackLotus0930/Lemona-Releases/releases/download/v1.0.0/Lemona-1.0.0-x64.exe)**
 
-**[⬇️ Download Lemona v1.0.0 for Windows](https://github.com/BlackLotus0930/Lemona-Releases/releases/download/v1.0.0/Lemona-1.0.0-x64.exe)**
-
-<sub>Windows may show a security warning. Click "More info" → "Run anyway" to continue.</sub>
-
-<br />
-
-*macOS and Linux versions coming soon*
-
-</div>
-
-<br />
+> **Note:** Windows may show a security warning. Click "More info" → "Run anyway" to continue.  
+> Currently Windows-only.
 
 ---
-
-<div align="center">
-
-Made with 🍋 by the Lemona team
-
-[Website](https://www.lemona.studio) • [GitHub](https://github.com/BlackLotus0930/Lemona-Releases) • [Report Issue](https://github.com/BlackLotus0930/Lemona-Releases/issues)
-
-</div>
