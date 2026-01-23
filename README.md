@@ -1,6 +1,6 @@
 <div align="center">
 
-# Lemona: AI-native writing workspace
+# <Lemona> AI-native writing workspace
 
 **If life gives you lemons, make lemona.**
 
