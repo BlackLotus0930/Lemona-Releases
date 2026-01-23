@@ -3,8 +3,6 @@
 
 ### An AI-native integrated writing editor
 
-**Write, research, and refine—all in one intelligent workspace**
-
 <br />
 
 [![Download](https://img.shields.io/badge/Download-v1.0.0-FF6B6B?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/BlackLotus0930/Lemona-Releases/releases/download/v1.0.0/Lemona-1.0.0-x64.exe)
