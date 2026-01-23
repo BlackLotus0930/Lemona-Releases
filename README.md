@@ -1,5 +1,5 @@
 <div align="center">
-<img width="600" alt="Lemona Logo" src="https://github.com/user-attachments/assets/51207bde-9057-4634-a395-ddeb135ea0f0" />
+<img width="200" alt="Lemona Logo" src="https://github.com/user-attachments/assets/51207bde-9057-4634-a395-ddeb135ea0f0" />
 
 ### An AI-native integrated writing editor
 
