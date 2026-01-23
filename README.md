@@ -1,7 +1,6 @@
 <div align="center">
-<img width="300" alt="Lemona Logo" src="https://github.com/user-attachments/assets/51207bde-9057-4634-a395-ddeb135ea0f0" />
 
-### An AI-native integrated writing editor
+# 🍋 Lemona: an AI-native integrated writing editor
 
 <br />
 
@@ -12,40 +11,56 @@
 
 <br />
 
-✨ Features
+---
+
+## ✨ Features
+
 <table>
 <tr>
 <td width="50%" valign="top">
-📝 Rich Text Editor
+
+### 📝 Rich Text Editor
 Write with a clean, distraction-free interface.
+
 </td>
 <td width="50%" valign="top">
-🗂️ Multi-File Workspace
+
+### 🗂️ Multi-File Workspace
 Organize multiple documents in one project.
+
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-🕐 Version Control
+
+### 🕐 Version Control
 Track changes and manage drafts effortlessly.
+
 </td>
 <td width="50%" valign="top">
-🤖 Context-Aware AI
+
+### 🤖 Context-Aware AI
 Get intelligent suggestions based on your content.
+
 </td>
 </tr>
 </table>
+
 <br />
 
+---
 
 ## 🔗 Three Connected Spaces
 
 | Space | Description |
 |-------|-------------|
-| **WorldLab** | Brainstorm and explore ideas freely |
-| **Library** | Store reference materials (PDF, DOCX) |
-| **Workspace** | Write and edit your documents |
+| **💡 WorldLab** | Brainstorm and explore ideas freely |
+| **📚 Library** | Store reference materials (PDF, DOCX) |
+| **✍️ Workspace** | Write and edit your documents |
 
+<br />
+
+---
 
 ## 🚀 Quick Start
 
@@ -54,15 +69,25 @@ Get intelligent suggestions based on your content.
 - **`Ctrl+Shift+E`** to toggle file explorer
 - **`Ctrl+S`** to save and index workspace files
 
+<br />
+
+---
 
 ## 📥 Download
 
-### Windows
+### 🪟 Windows
 
 **[⬇️ Download Lemona for Windows](https://github.com/BlackLotus0930/Lemona-Releases/releases/download/v1.0.0/Lemona-1.0.0-x64.exe)**
 
 > **Note:** Windows may show a security warning. Click "More info" → "Run anyway" to continue.  
 > Currently Windows-only.
 
+<br />
+
+---
+
+<div align="center">
 
 Made with 🍋 by BlackLotus
+
+</div>
