@@ -96,13 +96,11 @@ Write, research, and refine—all in one intelligent workspace. Lemona combines 
 
 </div>
 
-<br />
-
 ---
 
 <div align="center">
 
-Made by the Lemona team
+Made by Black Lotus
 
 [Website](https://www.lemona.studio) • [GitHub](https://github.com/BlackLotus0930/Lemona-Releases) • [Report Issue](https://github.com/BlackLotus0930/Lemona-Releases/issues)
 
