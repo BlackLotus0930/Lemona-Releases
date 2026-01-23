@@ -1,3 +1,5 @@
+<img width="2000" height="600" alt="When life gives you lemons, make lemona" src="https://github.com/user-attachments/assets/f537914b-3054-4ea1-9674-7bc1b32d905a" />
+
 # Lemona: AI-native Integrated Writing Editor
 
 ## ✨ Features
