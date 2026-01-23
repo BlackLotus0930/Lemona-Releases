@@ -18,7 +18,7 @@
 ## ✨ Features
 
 ### 📝 Rich Text Editor
-Clean, distraction-free interface for focused writing
+- Clean, distraction-free interface for focused writing
 
 ### 🗂️ Multi-File Workspace
 Organize multiple documents in one project
