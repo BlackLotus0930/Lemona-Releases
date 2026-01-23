@@ -15,44 +15,34 @@
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%">
 
 ### 📝 Rich Text Editor
-Write with a clean, distraction-free interface.
+Clean, distraction-free interface for focused writing
 
 </td>
-<td width="50%" valign="top">
+<td width="50%">
 
 ### 🗂️ Multi-File Workspace
-Organize multiple documents in one project.
+Organize multiple documents in one project
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="50%">
 
 ### 🕐 Version Control
-Track changes and manage drafts effortlessly.
+Track changes and manage drafts effortlessly
 
 </td>
-<td width="50%" valign="top">
+<td width="50%">
 
 ### 🤖 Context-Aware AI
-Get intelligent suggestions based on your content.
+Intelligent suggestions based on your content
 
 </td>
 </tr>
 </table>
-
-<br />
-
-## 🔗 Three Connected Spaces
-
-| Space | Description |
-|-------|-------------|
-| **💡 WorldLab** | Brainstorm and explore ideas freely |
-| **📚 Library** | Store reference materials (PDF, DOCX) |
-| **✍️ Workspace** | Write and edit your documents |
 
 <br />
 
