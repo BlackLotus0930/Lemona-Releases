@@ -27,13 +27,9 @@ Organize multiple documents within a single project workspace. Switch between fi
 Track changes and manage drafts effortlessly. Every edit is automatically saved with version history, so you can review past versions, compare changes, and restore previous drafts. Never lose your work, and experiment with confidence.
 
 ### Context-Aware AI
-Get intelligent suggestions based on your entire project context. The AI understands your workspace, library files, and writing history, providing relevant assistance whether you're brainstorming, refining prose, or researching. Multi-threaded chat interface lets you maintain separate conversation contexts.
-
-<br />
+Get intelligent suggestions based on your entire project context. The AI understands your workspace, library files, and writing history, providing relevant assistance whether you're brainstorming, refining prose, or researching. A multi-threaded chat interface lets you maintain separate conversation contexts.
 
 ---
-
-<br />
 
 ## Three Connected Spaces
 
@@ -48,11 +44,7 @@ Central repository for reference materials. Upload PDFs and DOCX files, which ar
 ### Workspace
 Your main writing environment. Create and edit documents with the rich text editor, organize them in your project, and leverage AI assistance that understands both your current document and your entire library. Everything connects—ideas from WorldLab, references from Library, all accessible as you write.
 
-<br />
-
 ---
-
-<br />
 
 ## Quick Start
 
@@ -86,11 +78,7 @@ Your main writing environment. Create and edit documents with the rich text edit
 - **Version history**: Access previous versions of your documents through the version control panel
 - **Export**: When ready, export your work to PDF or DOCX with full formatting preservation
 
-<br />
-
 ---
-
-<br />
 
 ## Download
 
