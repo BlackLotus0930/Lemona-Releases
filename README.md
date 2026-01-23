@@ -1,6 +1,4 @@
-# Lemona
-
-**AI-native Integrated Writing Editor.**
+# Lemona: AI-native Integrated Writing Editor
 
 ---
 
