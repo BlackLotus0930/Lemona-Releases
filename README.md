@@ -17,8 +17,6 @@ Write, research, and refine—all in one intelligent workspace. Lemona combines 
 
 ---
 
-<br />
-
 ## Features
 
 ### Rich Text Editor
