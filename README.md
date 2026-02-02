@@ -15,7 +15,7 @@ The stories we love most feel alive, where every corner and every detail connect
 
 ## Download
 
-<div align="center">
+<div align="Left">
 
 ### Windows
 
