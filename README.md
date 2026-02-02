@@ -19,7 +19,7 @@ The stories we love most feel alive, where every corner and every detail connect
 
 ### Windows
 
-**[Download Lemona v1.0.0 for Windows](https://github.com/BlackLotus0930/Lemona-Releases/releases/download/v1.0.0/Lemona-1.0.0-x64.exe)**
+**[Download Lemona v1.2.20 for Windows](https://github.com/BlackLotus0930/Lemona-Releases/releases/download/v1.2.20/Lemona-1.2.20-x64.exe)**
 
 <sub>Windows may show a security warning. Click "More info" → "Run anyway" to continue.</sub>
 
