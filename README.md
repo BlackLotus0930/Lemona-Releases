@@ -2,6 +2,7 @@
 
 [![Website](https://img.shields.io/badge/Website-lemona.studio-blue)](https://lemona.studio)
 [![Discord](https://img.shields.io/badge/Discord-Join%20Server-7289da)](https://discord.com/invite/Yp7nuEUmHJ)
+![Total Downloads](https://img.shields.io/github/downloads/BlackLotus0930/Lemona-Releases/total)
 
 **Lemona is an integrated writing editor with AI, designed for building rich, interconnected worlds.**
 The stories we love most feel alive, where every corner and every detail connects. Lemona exists to help creators grow endless worlds, alive with detail.
